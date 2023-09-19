@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-🧑‍🎓️ I'm final year undergraduate student at LPU.
-🧠️ My current field of interest lies in Computer Vision
+🧑‍🎓️ I'm final year undergraduate student at LPU.\
+🧠️ My current field of interest lies in Computer Vision\
 🧠️ I'm also working on a research paper which I hope to publish before my graduation.
 
 A data-driven personal website
