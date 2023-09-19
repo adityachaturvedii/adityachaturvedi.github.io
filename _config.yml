@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Aditya Chaturvedi"
-  avatar           : "adityachaturvedii/adityachaturvedii.github.io/assets/headshot-circle.png"
+  avatar           : "/images/headshot-circle.png"
   bio              : "Machine Intelligence / Decision Science"
   location         : "India"
   employer         :
